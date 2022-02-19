@@ -208,6 +208,8 @@ font-size: large;
 ```
 
 ## OUTPUT:
+![](./a1.png)
+![](./a2.png)
 
 ### Home Page:
 
